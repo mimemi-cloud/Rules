@@ -1,4 +1,4 @@
-
+rules:
 - RULE-SET,Reject,AdBlock
 - RULE-SET,Special,DIRECT
 
