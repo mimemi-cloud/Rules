@@ -1,4 +1,3 @@
-rules:
 
 - RULE-SET,Reject,AdBlock
 - RULE-SET,Special,DIRECT
@@ -489,4 +488,3 @@ rule-providers:
     url: 'https://raw.dler.io/main/Clash/Provider/LAN.yaml'
     path: ./Rules/LAN
     interval: 86400
-		
